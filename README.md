@@ -1,4 +1,7 @@
-## Smart Mirror Application
+ ## Smart Mirror Application
+
+ ![image](https://github.com/user-attachments/assets/0d665da1-e557-4017-afc8-a20c2c1ce0c7)
+
 
 ### Overview
 
